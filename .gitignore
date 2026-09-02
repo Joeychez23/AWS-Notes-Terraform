@@ -1,0 +1,8 @@
+*.tfstate
+*.hcl
+*.terraform
+*.backup
+*tfstate
+data-storage
+*.pem
+iam
