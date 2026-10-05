@@ -1,2 +1,0 @@
-AWS-PRAC-SEC
-sg-0d8d278a8d2092fdb

@@ -6,3 +6,7 @@
 data-storage
 *.pem
 iam
+global
+HTTP
+HTTPS
+copy_paste.txt
