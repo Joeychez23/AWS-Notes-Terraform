@@ -10,3 +10,4 @@ global
 HTTP
 HTTPS
 copy_paste.txt
+.DS_Store
